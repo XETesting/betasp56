@@ -1,2 +1,0 @@
-Hello Borat!
-Wawawewa! This is another file pushed via the GitHub push_files tool.
